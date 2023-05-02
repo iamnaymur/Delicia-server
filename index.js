@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/chiefs", (req, res) => {
-  res.send(chiefs);
+  res.send(chief);
 });
 
 app.get("/chiefs/:id", (req, res) => {
