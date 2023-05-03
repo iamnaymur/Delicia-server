@@ -1,278 +1,281 @@
- [
-    {
-      "id": "1",
-      "name": "Massimo Bottura",
-      "image": "https://images.unsplash.com/photo-1559418162-0d309d8d10a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-      "experience": "30+ years",
-      "description": " An Executive Chef is in charge of the entire kitchen and responsible for developing menus, overseeing food quality, and managing the kitchen staff. They have a broad range of culinary skills and knowledge, and they often have many years of experience working in professional kitchens.",
-      "recipes": [
-        {
-          "name": "Garlic Butter Shrimp",
-          "ingredients": [
-            "1 lb raw shrimp, peeled and deveined. ",
-            "4 tbsp unsalted butter, ",
-            "4 cloves garlic, minced, ",
-            "1/2 tsp red pepper flakes, ",
-            "1/4 cup fresh parsley, chopped."
-          ],
-          "method": "1. Melt the butter in a large skillet over medium heat.\n2. Add the garlic and red pepper flakes and cook until fragrant, about 1 minute.\n3. Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.\n4. Sprinkle with chopped parsley and serve hot.",
-          "rating": 4.8
-        },
-        {
-          "name": "Caprese Salad",
-          "ingredients": [
-            "4 ripe tomatoes, sliced. ",
-            "8 oz fresh mozzarella, sliced. ",
-            "1/4 cup fresh basil leaves. ",
-            "2 tbsp balsamic glaze. ",
-            "2 tbsp extra-virgin olive oil."
-          ],
-          "method": "1. Arrange the tomato and mozzarella slices on a platter.\n2. Scatter fresh basil leaves on top.\n3. Drizzle with balsamic glaze and olive oil.\n4. Season with salt and black pepper to taste.\n5. Serve immediately.",
-          "rating": 4.6
-        },
-        {
-          "name": "Honey Mustard Chicken",
-          "ingredients": [
-            "4 boneless, skinless chicken breasts. ",
-            "1/4 cup Dijon mustard. ",
-            "1/4 cup honey. ",
-            "2 tbsp olive oil. ",
-            "2 cloves garlic, minced. "
-          ],
-          "method": "1. Preheat the oven to 375°F.\n2. In a small bowl, whisk together the Dijon mustard, honey, olive oil, and garlic.\n3. Place the chicken breasts in a baking dish.\n4. Pour the honey mustard sauce over the chicken, making sure each breast is evenly coated.\n5. Bake for 25-30 minutes, or until the chicken is cooked through and the internal temperature reaches 165°F.\n6. Serve hot.",
-          "rating": 4.5
-        }
-      ],
-      "likes": 50000
-    },
-    {
-      "id": "2",
-      "name": "Gennaro Contaldo",
-      "image": "https://images.unsplash.com/photo-1608681299041-cc19878f79f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-      "experience": "17+ years",
-      "description": "A Pastry Chef is a specialist in desserts, pastries, and baked goods. They create and design cakes, pastries, bread, and other baked treats. They often work in bakeries, hotels, and restaurants, and they have a strong understanding of baking and dessert techniques.",
-      "recipes": [
-        {
-          "name": "Garlic Butter Shrimp",
-          "ingredients": [
-            "1 lb raw shrimp, peeled and deveined. ",
-            "4 tbsp unsalted butter, ",
-            "4 cloves garlic, minced, ",
-            "1/2 tsp red pepper flakes, ",
-            "1/4 cup fresh parsley, chopped."
-          ],
-          "method": "1. Melt the butter in a large skillet over medium heat.\n2. Add the garlic and red pepper flakes and cook until fragrant, about 1 minute.\n3. Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.\n4. Sprinkle with chopped parsley and serve hot.",
-          "rating": 4.8
-        },
-        {
-          "name": "Caprese Salad",
-          "ingredients": [
-            "4 ripe tomatoes, sliced. ",
-            "8 oz fresh mozzarella, sliced. ",
-            "1/4 cup fresh basil leaves. ",
-            "2 tbsp balsamic glaze. ",
-            "2 tbsp extra-virgin olive oil."
-          ],
-          "method": "1. Arrange the tomato and mozzarella slices on a platter.\n2. Scatter fresh basil leaves on top.\n3. Drizzle with balsamic glaze and olive oil.\n4. Season with salt and black pepper to taste.\n5. Serve immediately.",
-          "rating": 4.6
-        },
-        {
-          "name": "Honey Mustard Chicken",
-          "ingredients": [
-            "4 boneless, skinless chicken breasts. ",
-            "1/4 cup Dijon mustard. ",
-            "1/4 cup honey. ",
-            "2 tbsp olive oil. ",
-            "2 cloves garlic, minced. "
-          ],
-          "method": "1. Preheat the oven to 375°F.\n2. In a small bowl, whisk together the Dijon mustard, honey, olive oil, and garlic.\n3. Place the chicken breasts in a baking dish.\n4. Pour the honey mustard sauce over the chicken, making sure each breast is evenly coated.\n5. Bake for 25-30 minutes, or until the chicken is cooked through and the internal temperature reaches 165°F.\n6. Serve hot.",
-          "rating": 4.5
-        }
-      ],
-      "likes": 25000
-    },
-    {
-      "id": "3",
-      "name": "Lidia Bastianich",
-      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-      "experience": "40+ years",
-      "description": "A Sous Chef is the second in command in the kitchen and is responsible for overseeing kitchen staff and operations when the Executive Chef is absent. They have a wide range of culinary skills and often specialize in a specific type of cuisine or cooking technique.",
-      "recipes": [
-        {
-          "name": "Garlic Butter Shrimp",
-          "ingredients": [
-            "1 lb raw shrimp, peeled and deveined. ",
-            "4 tbsp unsalted butter, ",
-            "4 cloves garlic, minced, ",
-            "1/2 tsp red pepper flakes, ",
-            "1/4 cup fresh parsley, chopped."
-          ],
-          "method": "1. Melt the butter in a large skillet over medium heat.\n2. Add the garlic and red pepper flakes and cook until fragrant, about 1 minute.\n3. Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.\n4. Sprinkle with chopped parsley and serve hot.",
-          "rating": 4.8
-        },
-        {
-          "name": "Caprese Salad",
-          "ingredients": [
-            "4 ripe tomatoes, sliced. ",
-            "8 oz fresh mozzarella, sliced. ",
-            "1/4 cup fresh basil leaves. ",
-            "2 tbsp balsamic glaze. ",
-            "2 tbsp extra-virgin olive oil."
-          ],
-          "method": "1. Arrange the tomato and mozzarella slices on a platter.\n2. Scatter fresh basil leaves on top.\n3. Drizzle with balsamic glaze and olive oil.\n4. Season with salt and black pepper to taste.\n5. Serve immediately.",
-          "rating": 4.6
-        },
-        {
-          "name": "Honey Mustard Chicken",
-          "ingredients": [
-            "4 boneless, skinless chicken breasts. ",
-            "1/4 cup Dijon mustard. ",
-            "1/4 cup honey. ",
-            "2 tbsp olive oil. ",
-            "2 cloves garlic, minced. "
-          ],
-          "method": "1. Preheat the oven to 375°F.\n2. In a small bowl, whisk together the Dijon mustard, honey, olive oil, and garlic.\n3. Place the chicken breasts in a baking dish.\n4. Pour the honey mustard sauce over the chicken, making sure each breast is evenly coated.\n5. Bake for 25-30 minutes, or until the chicken is cooked through and the internal temperature reaches 165°F.\n6. Serve hot.",
-          "rating": 4.5
-        }
-      ],
-      "likes": 30000
-    },
-    {
-      "id": "4",
-      "name": "Carlo Cracco",
-      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-      "experience": "30+ years",
-      "description": "A Line Cook is responsible for cooking food to order and preparing dishes according to the Executive Chef's specifications. They work in restaurants, hotels, and other food establishments and have strong cooking skills and knowledge of food safety and hygiene practices.",
-      "recipes": [
-        {
-          "name": "Garlic Butter Shrimp",
-          "ingredients": [
-            "1 lb raw shrimp, peeled and deveined. ",
-            "4 tbsp unsalted butter, ",
-            "4 cloves garlic, minced, ",
-            "1/2 tsp red pepper flakes, ",
-            "1/4 cup fresh parsley, chopped."
-          ],
-          "method": "1. Melt the butter in a large skillet over medium heat.\n2. Add the garlic and red pepper flakes and cook until fragrant, about 1 minute.\n3. Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.\n4. Sprinkle with chopped parsley and serve hot.",
-          "rating": 4.8
-        },
-        {
-          "name": "Caprese Salad",
-          "ingredients": [
-            "4 ripe tomatoes, sliced. ",
-            "8 oz fresh mozzarella, sliced. ",
-            "1/4 cup fresh basil leaves. ",
-            "2 tbsp balsamic glaze. ",
-            "2 tbsp extra-virgin olive oil."
-          ],
-          "method": "1. Arrange the tomato and mozzarella slices on a platter.\n2. Scatter fresh basil leaves on top.\n3. Drizzle with balsamic glaze and olive oil.\n4. Season with salt and black pepper to taste.\n5. Serve immediately.",
-          "rating": 4.6
-        },
-        {
-          "name": "Honey Mustard Chicken",
-          "ingredients": [
-            "4 boneless, skinless chicken breasts. ",
-            "1/4 cup Dijon mustard. ",
-            "1/4 cup honey. ",
-            "2 tbsp olive oil. ",
-            "2 cloves garlic, minced. "
-          ],
-          "method": "1. Preheat the oven to 375°F.\n2. In a small bowl, whisk together the Dijon mustard, honey, olive oil, and garlic.\n3. Place the chicken breasts in a baking dish.\n4. Pour the honey mustard sauce over the chicken, making sure each breast is evenly coated.\n5. Bake for 25-30 minutes, or until the chicken is cooked through and the internal temperature reaches 165°F.\n6. Serve hot.",
-          "rating": 4.5
-        }
-      ],
-      "likes": 20000
-    },
-    {
-      "id": "5",
-      "name": "Carlo Bruto",
-      "image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=699&q=80",
-      "experience": "25+ years",
-      "description": "A Saucier is a chef who specializes in preparing sauces, stews, and other liquid-based dishes. They have a deep understanding of flavor profiles and use their knowledge to create rich and flavorful sauces to accompany main dishes.",
-      "recipes": [
-        {
-          "name": "Garlic Butter Shrimp",
-          "ingredients": [
-            "1 lb raw shrimp, peeled and deveined. ",
-            "4 tbsp unsalted butter, ",
-            "4 cloves garlic, minced, ",
-            "1/2 tsp red pepper flakes, ",
-            "1/4 cup fresh parsley, chopped."
-          ],
-          "method": "1. Melt the butter in a large skillet over medium heat.\n2. Add the garlic and red pepper flakes and cook until fragrant, about 1 minute.\n3. Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.\n4. Sprinkle with chopped parsley and serve hot.",
-          "rating": 4.8
-        },
-        {
-          "name": "Caprese Salad",
-          "ingredients": [
-            "4 ripe tomatoes, sliced. ",
-            "8 oz fresh mozzarella, sliced. ",
-            "1/4 cup fresh basil leaves. ",
-            "2 tbsp balsamic glaze. ",
-            "2 tbsp extra-virgin olive oil."
-          ],
-          "method": "1. Arrange the tomato and mozzarella slices on a platter.\n2. Scatter fresh basil leaves on top.\n3. Drizzle with balsamic glaze and olive oil.\n4. Season with salt and black pepper to taste.\n5. Serve immediately.",
-          "rating": 4.6
-        },
-        {
-          "name": "Honey Mustard Chicken",
-          "ingredients": [
-            "4 boneless, skinless chicken breasts. ",
-            "1/4 cup Dijon mustard. ",
-            "1/4 cup honey. ",
-            "2 tbsp olive oil. ",
-            "2 cloves garlic, minced. "
-          ],
-          "method": "1. Preheat the oven to 375°F.\n2. In a small bowl, whisk together the Dijon mustard, honey, olive oil, and garlic.\n3. Place the chicken breasts in a baking dish.\n4. Pour the honey mustard sauce over the chicken, making sure each breast is evenly coated.\n5. Bake for 25-30 minutes, or until the chicken is cooked through and the internal temperature reaches 165°F.\n6. Serve hot.",
-          "rating": 4.5
-        }
-      ],
-      "likes": 20000
-    },
-    {
-      "id": "6",
-      "name": "Emi Cracco",
-      "image": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-      "experience": "22+ years",
-      "description": " A Grill Chef specializes in cooking foods on the grill or barbecue. They often work in outdoor kitchens or at restaurants that specialize in grilled meats and vegetables. They have a strong understanding of cooking temperatures and techniques to create perfectly grilled dishes.",
-      "recipes": [
-        {
-          "name": "Garlic Butter Shrimp",
-          "ingredients": [
-            "1 lb raw shrimp, peeled and deveined. ",
-            "4 tbsp unsalted butter, ",
-            "4 cloves garlic, minced, ",
-            "1/2 tsp red pepper flakes, ",
-            "1/4 cup fresh parsley, chopped."
-          ],
-          "method": "1. Melt the butter in a large skillet over medium heat.\n2. Add the garlic and red pepper flakes and cook until fragrant, about 1 minute.\n3. Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.\n4. Sprinkle with chopped parsley and serve hot.",
-          "rating": 4.8
-        },
-        {
-          "name": "Caprese Salad",
-          "ingredients": [
-            "4 ripe tomatoes, sliced. ",
-            "8 oz fresh mozzarella, sliced. ",
-            "1/4 cup fresh basil leaves. ",
-            "2 tbsp balsamic glaze. ",
-            "2 tbsp extra-virgin olive oil."
-          ],
-          "method": "1. Arrange the tomato and mozzarella slices on a platter.\n2. Scatter fresh basil leaves on top.\n3. Drizzle with balsamic glaze and olive oil.\n4. Season with salt and black pepper to taste.\n5. Serve immediately.",
-          "rating": 4.6
-        },
-        {
-          "name": "Honey Mustard Chicken",
-          "ingredients": [
-            "4 boneless, skinless chicken breasts. ",
-            "1/4 cup Dijon mustard. ",
-            "1/4 cup honey. ",
-            "2 tbsp olive oil. ",
-            "2 cloves garlic, minced. "
-          ],
-          "method": "1. Preheat the oven to 375°F.\n2. In a small bowl, whisk together the Dijon mustard, honey, olive oil, and garlic.\n3. Place the chicken breasts in a baking dish.\n4. Pour the honey mustard sauce over the chicken, making sure each breast is evenly coated.\n5. Bake for 25-30 minutes, or until the chicken is cooked through and the internal temperature reaches 165°F.\n6. Serve hot.",
-          "rating": 4.5
-        }
-      ],
-      "likes": 20000
-    }
-    ]
+[
+  {
+    "id": "1",
+    "name": "Massimo Bottura",
+    "image": "https://images.unsplash.com/photo-1559418162-0d309d8d10a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "experience": "30+ years",
+    "description": " An Executive Chef is in charge of the entire kitchen and responsible for developing menus, overseeing food quality, and managing the kitchen staff. They have a broad range of culinary skills and knowledge, and they often have many years of experience working in professional kitchens.",
+    "recipes": [
+      {
+        "name": "Spaghetti alla Carbonara",
+        "ingredients": [
+          "1 lb spaghetti ",
+          "6 oz pancetta or guanciale (cured pork belly), diced, ",
+          "4 eggs, at room temperature ",
+          "1 cup freshly grated Pecorino Romano cheese ",
+          "1/2 cup freshly grated Parmigiano Reggiano cheese."
+        ],
+        "method": "1.Bring a large pot of salted water to a boil.\n2.In a bowl, whisk together the eggs, Pecorino Romano cheese, Parmigiano Reggiano cheese, black pepper, and a pinch of salt.\n3. Add the spaghetti to the skillet with the pancetta or guanciale and toss to combine. Remove from the heat and let cool for a minute or two.\n4.Serve hot, topped with additional Pecorino Romano cheese and black pepper, if desired.",
+        "rating": 4.8
+      },
+      {
+        "name": "Margherita Pizza",
+        "ingredients": [
+          "1 lb pizza dough ",
+          "1/2 cup tomato sauce ",
+          "8 oz fresh mozzarella cheese, sliced ",
+          "Fresh basil leaves ",
+          "Extra-virgin olive oil."
+        ],
+        "method": "1. Preheat your oven to its highest temperature. If using a pizza stone, place it in the oven to preheat as well.\n2. Roll out the pizza dough on a floured surface until it's about 12 inches in diameter.\n3. Spread the tomato sauce over the pizza dough, leaving a small border around the edge.\n4.Arrange the sliced mozzarella cheese over the tomato sauce.\n5. Serve immediately.",
+        "rating": 4.6
+      },
+      {
+        "name": "Honey Mustard Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts. ",
+          "1/4 cup Dijon mustard. ",
+          "1/4 cup honey. ",
+          "2 tbsp olive oil. ",
+          "2 cloves garlic, minced. "
+        ],
+        "method": "1. Preheat the oven to 375°F.\n2. In a small bowl, whisk together the Dijon mustard, honey, olive oil, and garlic.\n3. Place the chicken breasts in a baking dish.\n4. Pour the honey mustard sauce over the chicken, making sure each breast is evenly coated.\n5. Bake for 25-30 minutes, or until the chicken is cooked through and the internal temperature reaches 165°F.\n6. Serve hot.",
+        "rating": 4.5
+      }
+    ],
+    "likes": 50000
+  },
+  {
+    "id": "2",
+    "name": "Gennaro Contaldo",
+    "image": "https://images.unsplash.com/photo-1608681299041-cc19878f79f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "experience": "17+ years",
+    "description": "A Pastry Chef is a specialist in desserts, pastries, and baked goods. They create and design cakes, pastries, bread, and other baked treats. They often work in bakeries, hotels, and restaurants, and they have a strong understanding of baking and dessert techniques.",
+    "recipes": [
+      {
+        "name": "Bruschetta",
+        "ingredients": [
+          "1 baguette or Italian bread, sliced into 1/2-inch thick slices ",
+          "3-4 ripe tomatoes, diced ",
+          "3-4 garlic cloves, peeled ",
+          "1/4 cup fresh basil leaves, chopped ",
+          "2-3 tablespoons balsamic vinegar",
+          "2-3 tablespoons extra-virgin olive oil"
+        ],
+        "method": "1. Slice a baguette or Italian bread into 1/2-inch thick slices.\n2. Brush both sides of each slice with olive oil and sprinkle with salt.\n3. Grill or toast the bread slices until crispy and lightly charred.\n4. Rub one side of each bread slice with a garlic clove.\n5.Top each bread slice with diced tomatoes, fresh basil, and a drizzle of balsamic vinegar.",
+        "rating": 4.8
+      },
+      {
+        "name": "Lasagna ",
+        "ingredients": [
+          "12 lasagna noodles, ",
+          "1 tbsp chopped fresh oregano ",
+          "1 container (15 oz) ricotta cheese ",
+          "1/2 cup grated Parmesan cheese ",
+          "1 can (28 oz) crushed tomatoes ",
+          "Black pepper, to taste"
+        ],
+        "method": "1.Cook ground beef with onion and garlic, drain off excess fat, then add crushed tomatoes, tomato sauce, tomato paste, basil, oregano, sugar, salt, and pepper. Simmer for 10 minutes.\n2. In a 9x13 inch baking dish, spread 1 cup of meat sauce on the bottom, then layer 4 lasagna noodles, half of the ricotta cheese mixture, mozzarella cheese, and Parmesan cheese. Repeat layers.\n3. Cover with foil and bake at 375°F for 25 minutes.\n4. Serve immediately.",
+        "rating": 4.6
+      },
+      {
+        "name": "Risotto",
+        "ingredients": [
+          "4 cups chicken or vegetable broth ",
+          "2 tbsp olive oil ",
+          "1 cup grated Parmesan cheese ",
+          "2 garlic cloves, minced ",
+          "1 onion, chopped, 2 garlic cloves, minced "
+        ],
+        "method": "1. In a large pan, heat the olive oil over medium heat and sauté the onion and garlic until they're softened.\n2.Begin adding the warm broth, one ladleful at a time, stirring constantly and allowing each addition to be absorbed before adding more.\n3. Add the Arborio rice to the pan and stir for a few minutes until the rice is coated with the oil and becomes slightly translucent.\n4. Add the wine (if using) and stir until the liquid is absorbed.\n5. Serve hot.",
+        "rating": 4.5
+      }
+    ],
+    "likes": 25000
+  },
+  {
+    "id": "3",
+    "name": "Lidia Bastianich",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "experience": "40+ years",
+    "description": "A Sous Chef is the second in command in the kitchen and is responsible for overseeing kitchen staff and operations when the Executive Chef is absent. They have a wide range of culinary skills and often specialize in a specific type of cuisine or cooking technique.",
+    "recipes": [
+      {
+        "name": "Risotto",
+        "ingredients": [
+          "4 cups chicken or vegetable broth ",
+          "2 tbsp olive oil ",
+          "1 cup grated Parmesan cheese ",
+          "2 garlic cloves, minced ",
+          "1 onion, chopped, 2 garlic cloves, minced "
+        ],
+        "method": "1. In a large pan, heat the olive oil over medium heat and sauté the onion and garlic until they're softened.\n2.Begin adding the warm broth, one ladleful at a time, stirring constantly and allowing each addition to be absorbed before adding more.\n3. Add the Arborio rice to the pan and stir for a few minutes until the rice is coated with the oil and becomes slightly translucent.\n4. Add the wine (if using) and stir until the liquid is absorbed.\n5. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": " Minestrone Soup",
+        "ingredients": [
+          "2 garlic cloves, minced 2 celery stalks, chopped ",
+          "1 can (15 oz) kidney beans, drained and rinsed ",
+          "1 can (14.5 oz) diced tomatoes ",
+          "1 cup chopped fresh spinach ",
+          "1 tsp dried basil 1 tsp dried oregano "
+        ],
+        "method": "1. In a large pot, heat the olive oil over medium heat and sauté the onion, garlic, celery, and carrots until they're softened.\n2. Add the diced tomatoes (including the liquid) and broth to the pot. Bring to a boil, then reduce heat and let simmer for 10-15 minutes.\n3.Add the kidney beans, zucchini, spinach, basil, and oregano to the pot. Let simmer for another 10 minutes.\n4. In a separate pot, cook the small pasta shells according to package instructions. Drain and set aside.\n5. Add salt and black pepper to taste.\n6. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Honey Mustard Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts. ",
+          "1/4 cup Dijon mustard. ",
+          "1/4 cup honey. ",
+          "2 tbsp olive oil. ",
+          "2 cloves garlic, minced. "
+        ],
+        "method": "1. Preheat the oven to 375°F.\n2. In a small bowl, whisk together the Dijon mustard, honey, olive oil, and garlic.\n3. Place the chicken breasts in a baking dish.\n4. Pour the honey mustard sauce over the chicken, making sure each breast is evenly coated.\n5. Bake for 25-30 minutes, or until the chicken is cooked through and the internal temperature reaches 165°F.\n6. Serve hot.",
+        "rating": 4.5
+      }
+    ],
+    "likes": 30000
+  },
+  {
+    "id": "4",
+    "name": "Carlo Cracco",
+    "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "experience": "30+ years",
+    "description": "A Line Cook is responsible for cooking food to order and preparing dishes according to the Executive Chef's specifications. They work in restaurants, hotels, and other food establishments and have strong cooking skills and knowledge of food safety and hygiene practices.",
+    "recipes": [
+      {
+        "name": "Margherita Pizza",
+        "ingredients": [
+          "1 lb pizza dough ",
+          "1/2 cup tomato sauce ",
+          "8 oz fresh mozzarella cheese, sliced ",
+          "Fresh basil leaves ",
+          "Extra-virgin olive oil."
+        ],
+        "method": "1. Preheat your oven to its highest temperature. If using a pizza stone, place it in the oven to preheat as well.\n2. Roll out the pizza dough on a floured surface until it's about 12 inches in diameter.\n3. Spread the tomato sauce over the pizza dough, leaving a small border around the edge.\n4.Arrange the sliced mozzarella cheese over the tomato sauce.\n5. Serve immediately.",
+        "rating": 4.6
+      },
+      {
+        "name": "Lasagna ",
+        "ingredients": [
+          "12 lasagna noodles, ",
+          "1 tbsp chopped fresh oregano ",
+          "1 container (15 oz) ricotta cheese ",
+          "1/2 cup grated Parmesan cheese ",
+          "1 can (28 oz) crushed tomatoes ",
+          "Black pepper, to taste"
+        ],
+        "method": "1.Cook ground beef with onion and garlic, drain off excess fat, then add crushed tomatoes, tomato sauce, tomato paste, basil, oregano, sugar, salt, and pepper. Simmer for 10 minutes.\n2. In a 9x13 inch baking dish, spread 1 cup of meat sauce on the bottom, then layer 4 lasagna noodles, half of the ricotta cheese mixture, mozzarella cheese, and Parmesan cheese. Repeat layers.\n3. Cover with foil and bake at 375°F for 25 minutes.\n4. Serve immediately.",
+        "rating": 4.6
+      },
+      {
+        "name": "Honey Mustard Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts. ",
+          "1/4 cup Dijon mustard. ",
+          "1/4 cup honey. ",
+          "2 tbsp olive oil. ",
+          "2 cloves garlic, minced. "
+        ],
+        "method": "1. Preheat the oven to 375°F.\n2. In a small bowl, whisk together the Dijon mustard, honey, olive oil, and garlic.\n3. Place the chicken breasts in a baking dish.\n4. Pour the honey mustard sauce over the chicken, making sure each breast is evenly coated.\n5. Bake for 25-30 minutes, or until the chicken is cooked through and the internal temperature reaches 165°F.\n6. Serve hot.",
+        "rating": 4.5
+      }
+    ],
+    "likes": 20000
+  },
+  {
+    "id": "5",
+    "name": "Carlo Bruto",
+    "image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=699&q=80",
+    "experience": "25+ years",
+    "description": "A Saucier is a chef who specializes in preparing sauces, stews, and other liquid-based dishes. They have a deep understanding of flavor profiles and use their knowledge to create rich and flavorful sauces to accompany main dishes.",
+    "recipes": [
+      {
+        "name": "Garlic Butter Shrimp",
+        "ingredients": [
+          "1 lb raw shrimp, peeled and deveined. ",
+          "4 tbsp unsalted butter, ",
+          "4 cloves garlic, minced, ",
+          "1/2 tsp red pepper flakes, ",
+          "1/4 cup fresh parsley, chopped."
+        ],
+        "method": "1. Melt the butter in a large skillet over medium heat.\n2. Add the garlic and red pepper flakes and cook until fragrant, about 1 minute.\n3. Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.\n4. Sprinkle with chopped parsley and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "name": "Caprese Salad",
+        "ingredients": [
+          "4 ripe tomatoes, sliced. ",
+          "8 oz fresh mozzarella, sliced. ",
+          "1/4 cup fresh basil leaves. ",
+          "2 tbsp balsamic glaze. ",
+          "2 tbsp extra-virgin olive oil."
+        ],
+        "method": "1. Arrange the tomato and mozzarella slices on a platter.\n2. Scatter fresh basil leaves on top.\n3. Drizzle with balsamic glaze and olive oil.\n4. Season with salt and black pepper to taste.\n5. Serve immediately.",
+        "rating": 4.6
+      },
+      {
+        "name": "Honey Mustard Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts. ",
+          "1/4 cup Dijon mustard. ",
+          "1/4 cup honey. ",
+          "2 tbsp olive oil. ",
+          "2 cloves garlic, minced. "
+        ],
+        "method": "1. Preheat the oven to 375°F.\n2. In a small bowl, whisk together the Dijon mustard, honey, olive oil, and garlic.\n3. Place the chicken breasts in a baking dish.\n4. Pour the honey mustard sauce over the chicken, making sure each breast is evenly coated.\n5. Bake for 25-30 minutes, or until the chicken is cooked through and the internal temperature reaches 165°F.\n6. Serve hot.",
+        "rating": 4.5
+      }
+    ],
+    "likes": 20000
+  },
+  {
+    "id": "6",
+    "name": "Emi Cracco",
+    "image": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "experience": "22+ years",
+    "description": " A Grill Chef specializes in cooking foods on the grill or barbecue. They often work in outdoor kitchens or at restaurants that specialize in grilled meats and vegetables. They have a strong understanding of cooking temperatures and techniques to create perfectly grilled dishes.",
+    "recipes": [
+      {
+        "name": "Garlic Butter Shrimp",
+        "ingredients": [
+          "1 lb raw shrimp, peeled and deveined. ",
+          "4 tbsp unsalted butter, ",
+          "4 cloves garlic, minced, ",
+          "1/2 tsp red pepper flakes, ",
+          "1/4 cup fresh parsley, chopped."
+        ],
+        "method": "1. Melt the butter in a large skillet over medium heat.\n2. Add the garlic and red pepper flakes and cook until fragrant, about 1 minute.\n3. Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.\n4. Sprinkle with chopped parsley and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "name": "Caprese Salad",
+        "ingredients": [
+          "4 ripe tomatoes, sliced. ",
+          "8 oz fresh mozzarella, sliced. ",
+          "1/4 cup fresh basil leaves. ",
+          "2 tbsp balsamic glaze. ",
+          "2 tbsp extra-virgin olive oil."
+        ],
+        "method": "1. Arrange the tomato and mozzarella slices on a platter.\n2. Scatter fresh basil leaves on top.\n3. Drizzle with balsamic glaze and olive oil.\n4. Season with salt and black pepper to taste.\n5. Serve immediately.",
+        "rating": 4.6
+      },
+      {
+        "name": " Minestrone Soup",
+        "ingredients": [
+          "2 garlic cloves, minced 2 celery stalks, chopped ",
+          "1 can (15 oz) kidney beans, drained and rinsed ",
+          "1 can (14.5 oz) diced tomatoes ",
+          "1 cup chopped fresh spinach ",
+          "1 tsp dried basil 1 tsp dried oregano "
+        ],
+        "method": "1. In a large pot, heat the olive oil over medium heat and sauté the onion, garlic, celery, and carrots until they're softened.\n2. Add the diced tomatoes (including the liquid) and broth to the pot. Bring to a boil, then reduce heat and let simmer for 10-15 minutes.\n3.Add the kidney beans, zucchini, spinach, basil, and oregano to the pot. Let simmer for another 10 minutes.\n4. In a separate pot, cook the small pasta shells according to package instructions. Drain and set aside.\n5. Add salt and black pepper to taste.\n6. Serve hot.",
+        "rating": 4.5
+      }
+    ],
+    "likes": 20000
+  }
+]
